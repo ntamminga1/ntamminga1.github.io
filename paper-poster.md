@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers & Posters
-permalink: /about/
+permalink: /paper-poster/
 ---
 
 Here is where I will list all my papers and posters
