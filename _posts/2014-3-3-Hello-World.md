@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this different than Home?
+title: This is under posts, can I see it?
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
