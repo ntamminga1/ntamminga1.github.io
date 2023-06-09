@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Home?
+permalink: /homepage/
 ---
 
 Will this show up in my header now?
