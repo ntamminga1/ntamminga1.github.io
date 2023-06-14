@@ -4,12 +4,14 @@ title: Papers & Posters
 permalink: /paper-poster/
 ---
 
-Here is where I will list all my papers and posters
+### Papers
 
-### More Information
+Here is where I will post any papers I am a part of. None yet :(
 
-A place to include any other types of information that you'd like to include about yourself.
+### Presentations
 
-### Contact me
+2022: Presented "High Rep-Rate Data Acquisition for the Extreme Light Laser" at the 2023 National Ignition Facility and Jupiter Laser Facility User Group Meeting in Livermore, CA
 
-[email@domain.com](mailto:email@domain.com)
+### Posters
+
+Link NIF Poster
