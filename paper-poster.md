@@ -15,4 +15,4 @@ Here is where I will post any papers I am a part of. None yet :(
 ### Posters
 
 2022 NIF Poster
-<object data="{{ site.url }}{{ site.baseurl }}/images/High Rep-Rate Data Acquisition for the Extreme Light Laser 3x4.pdf" width="400" height="400" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/images/High Rep-Rate Data Acquisition for the Extreme Light Laser 3x4.pdf" width="500" height="400" type="application/pdf"></object>
