@@ -14,4 +14,4 @@ Here is where I will post any papers I am a part of. None yet :(
 
 ### Posters
 
-Link NIF Poster
+<object data="{{ site.url }}{{ site.baseurl }}/images/NIF_Poster.pdf" width="1000" height="1000" type="application/pdf"></object>
