@@ -18,5 +18,5 @@ Presented "High Rep-Rate Data Acquisition for the Extreme Light Laser" at the 20
 
 ### Posters
 
-2022 NIF Poster
+High Rep-Rate Data Acquisition for the Extreme Light Laser
 <object data="{{ site.url }}{{ site.baseurl }}/images/High Rep-Rate Data Acquisition for the Extreme Light Laser 3x4.pdf" width="600" height="300" type="application/pdf"></object>
