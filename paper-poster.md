@@ -6,6 +6,8 @@ permalink: /paper-poster/
 
 ### Papers
 
+2023:
+
 [*GeV Electrons via Laser Wakefield Acceleration with Pre-formed Plasma Channels*](https://ntamminga1.github.io/images/Candidacy%20Written%20Exam%20-%20Tamminga.pdf) in fulfillment of my PhD Candidacy Exam.
 
 ### Presentations 
