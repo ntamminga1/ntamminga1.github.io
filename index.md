@@ -7,7 +7,9 @@ Welcome to my research website! This is where I will keep track of my Ph.D. prog
 
 ### Timeline
 
-Su23: I worked towards collecting a data set that could be used to train a machine learning algorithm with both protons and electrons. Also, I took my candidacy exam.
+Au23: 
+
+Su23: I worked towards collecting a data set that could be used to train a machine learning algorithm with both protons and electrons. Also, I took my [candidacy exam](https://ntamminga1.github.io/paper-poster/).
 
 Sp23: I presented the preliminary proof of concept at the [NIF/JLF User Group Meeting](https://ntamminga1.github.io/paper-poster/). I also continued to work towards collecting another data set for machine learning training.
 
