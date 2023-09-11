@@ -7,7 +7,7 @@ Welcome to my research website! This is where I will keep track of my Ph.D. prog
 
 ### Timeline
 
-Au23: 
+Au23: Working on planning several experiments both at the Wrigth Patt Extreme Light Lab and at the Titan laser at JLF.
 
 Su23: I worked towards collecting a data set that could be used to train a machine learning algorithm with both protons and electrons. Also, I took my [candidacy exam](https://ntamminga1.github.io/paper-poster/).
 
